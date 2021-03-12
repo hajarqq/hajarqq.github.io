@@ -1,0 +1,52 @@
+#big_wrapper{
+	width: 500px;
+	border: solid 4px blue;
+	padding-top: 60px;
+	color:blue;
+	font-size:50px;
+	width:600px;
+	border:solid;
+	padding:15px;
+	margin-top:100px;
+	margin-bottom:100px;
+	margin-left:300px;
+	margin-right:100px;
+1	
+	color:black;
+	font-size:40px;
+	font-family:tahoma;
+	
+            };
+a:hover{
+	text-decorationdecoration:underline;
+	color:red;
+}
+  
+ul{
+	float:right;
+	width:10px;
+	color:black;
+	padding-top:10px;
+	font-size:15px;
+	margin-right:40px;
+	margin-top:15px;
+	
+}  
+li{
+	  display:inline-block;
+      padding-right:20px;
+}
+#sidebar{
+	background-color:yellow;
+	border:solid 2px black;
+	float:right;
+	margin-top:1px;
+	padding-top:10px;
+	
+};
+#n_para{
+	width:70px;
+	
+};
+
+	
